@@ -1,12 +1,10 @@
-## Hello, my name is Antti! (◠‿◕)
+## Hello (◠‿◕)
 
 ### Student, and expert in the making...
 
-- Second year student in Aalto University, Information Networks 📚
+- Third year student in Aalto University, Information Networks 📚
 - I like to desing and code beautiful and functional UI and UX 💻
-- Currently learning how to make my stack more full 🕵️
 - I prefer an active lifestyle and avoid unneccessary stress 🏃
-- My favorite animal is debugging duck 🐥
 
 ## Tools and languages:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
